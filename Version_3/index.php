@@ -2,6 +2,6 @@
 	include("includes/header.php");
 	
 ?>
-	Hello Kellyx!!!!!
+	Hello!  <?php echo $user["email"]; ?>
 </body>
 </html>

@@ -26,3 +26,5 @@ jQuery link for showing and hiding the Register/Login Forms: https://developers.
 
 Version 3: Building the foundation of the site.
 In this version, I included the Twitter Bootstrap, implemented the top menu bar, adding a simple site logo and a navigational bar icons
+
+I modiefied only one file - the header.php file and added one file for the styling of both the site logo and navigational bar icons - the style.css file.
