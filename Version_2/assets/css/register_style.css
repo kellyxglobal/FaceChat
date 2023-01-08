@@ -28,7 +28,6 @@ a {
 
 .wrapper {
 	background-image: url("../images/backgrounds/desktop.jpg");
-	background-repeat: repeat-x;
     background-size: 100%;
 	width: 100%;
 	height: 100%;
